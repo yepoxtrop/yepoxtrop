@@ -1,4 +1,4 @@
-# <img src="./tux.png" width="50"/> Hola, soy Luis Díaz (Yexpotrop)
+# <img src="./tux.png" width="50"/> Hola, soy Luis Díaz (Yexpotrox)
 
 🎓 Estudiante de Ingeniería de Sistemas (4° semestre)  
 💻 Desarrollador Full Stack en formación  
